@@ -1,41 +1,8 @@
 .main-display .header .title-display { user-select: none; }
-.main-display .header .title-display p{
-    font-size: 3rem;
-}
-
-.main-display .middle-display .first-box-text {
-    text-align: center;
-    user-select: none;
-}
-
-.main-display .middle-display .select {
-    margin-top: 5em;
-    margin-bottom: 3em;
-
-    width: 250px;
-}
-
-.main-display .middle-display .second-box {
-    margin-top: 5em;
-}
-
-.main-display .middle-display .copybutton {
-    margin-top: 3em;
-}
-
-.main-display .middle-display .downloadbutton {
-    margin-top: 1em;
-}
-
-.main-display .middle-display .downloadbutton a{
-    text-decoration: none;
-    color: white;
-}
-
-.main-display .middle-display .first-box textarea {
-    border: 2px solid black;
-}
-
-.main-display .middle-display .second-box textarea {
-    border: 2px solid black;
-}
+.main-display .header .title-display p{ font-size: 3rem; }
+.main-display .middle-display .first-box-text { text-align: center; user-select: none; }
+.main-display .middle-display .select { margin-top: 5em; margin-bottom: 3em; width: 250px; }
+.main-display .middle-display .second-box { margin-top: 5em; }
+.main-display .middle-display .copybutton { margin-top: 3em; margin-bottom: 3em; }
+.main-display .middle-display .first-box textarea { border: 2px solid black; }
+.main-display .middle-display .second-box textarea { border: 2px solid black; }
